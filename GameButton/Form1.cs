@@ -90,7 +90,7 @@ namespace GameButton
 
         private void Pluh()
         {
-            HelloButton.Size = new Size(10, 10);
+            HelloButton.Size = new Size(10, 10);//
         }
     }
 }
